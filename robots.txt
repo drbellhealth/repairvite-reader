@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://repairvite-v7.example/sitemap.xml
+Sitemap: https://drbellhealth.github.io/repairvite-reader/sitemap.xml
